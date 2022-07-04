@@ -33,6 +33,7 @@ Having more time we can improve the project a lot with the following:
 - A map plugin for the user to choose their address.
 - A companies select to change the user company.
 - Improve the table components for better performance.
+- It is possible to reduce a lot of code using `<script setup>``instead of the composition API method, but the Quasar's default method is the second (most verbose) and better for this example.
 
 ## Install the dependencies
 
