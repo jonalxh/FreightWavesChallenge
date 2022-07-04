@@ -20,7 +20,7 @@ The form handling uses a recursive way to dynamically create inputs from an obje
 
 The `API` is initialized in `boot/axios.js` and it is just an instance of `Axios` with a defined base url.
 
-The details ad edit views were created as a modal to avoid user redirection and keep the user in the same context, [here] (https://uxplanet.org/modal-vs-page-a-decision-making-framework-34453e911129) is a very good article talking about it.
+The details ad edit views were created as a modal to avoid user redirection and keep the user in the same context, [here](https://uxplanet.org/modal-vs-page-a-decision-making-framework-34453e911129) is a very good article talking about it.
 
 Having more time we can improve the project a lot with the following:
 
