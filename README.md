@@ -22,6 +22,9 @@ The `API` is initialized in `boot/axios.js` and it is just an instance of `Axios
 
 The details ad edit views were created as a modal to avoid user redirection and keep the user in the same context, [here](https://uxplanet.org/modal-vs-page-a-decision-making-framework-34453e911129) is a very good article talking about it.
 
+*Note: I did not consider necessary to implement an storage manager like Pinia, because the challenge was very short and simple.*
+
+
 Having more time we can improve the project a lot with the following:
 
 - Infinite scroll to load more records when user scrolls.
