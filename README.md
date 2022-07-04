@@ -2,14 +2,14 @@
 
 This challenge was made with the following stack:
 
--   Vue JS 3.
--   Quasar Framework (Vue based).
--   Axios.
--   ES6.
--   Vue Router.
--   Eslint.
--   Prettier.
--   SCSS.
+- Vue JS 3.
+- Quasar Framework (Vue based).
+- Axios.
+- ES6.
+- Vue Router.
+- Eslint.
+- Prettier.
+- SCSS.
 
 I have chosen to build this project on top of `Vue JS 3` because it is the last version and can be worked with `Vite`, a very fast tool for hot-code reloading.
 
@@ -24,12 +24,12 @@ The details ad edit views were created as a modal to avoid user redirection and 
 
 Having more time we can improve the project a lot with the following:
 
--   Infinite scroll to load more records when user scrolls.
--   Add more routes.
--   Add an authentication method like firebase auth.
--   A map plugin for the user to choose their address.
--   A companies select to change the user company.
--   Improve the table components for better performance.
+- Infinite scroll to load more records when user scrolls.
+- Add more routes.
+- Add an authentication method like firebase auth.
+- A map plugin for the user to choose their address.
+- A companies select to change the user company.
+- Improve the table components for better performance.
 
 ## Install the dependencies
 
